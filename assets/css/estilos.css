@@ -28,6 +28,7 @@ main{
     position: relative;
 }
 
+
 .caja__trasera{
     width: 100%;
     padding: 10px 20px;
@@ -131,8 +132,6 @@ main{
 }
 
 
-
-
 .formulario__login{
     opacity: 1;
     display: block;
@@ -174,3 +173,5 @@ main{
         position: relative;
     }
 }
+
+

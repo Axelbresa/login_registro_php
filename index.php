@@ -42,6 +42,7 @@ if(isset($_SESSION['usuario'])){
                         <input type="text" placeholder="Correo Electronico" name="correo">
                         <input type="password" placeholder="Contraseña" name="clave">
                         <button>Entrar</button>
+                        <a href="./recuperacion.php">¿olvidaste la contraseña?</a>
                     </form>
 
                     <!--Register-->
@@ -54,6 +55,7 @@ if(isset($_SESSION['usuario'])){
                         <button>Regístrarse</button>
                     </form>
                 </div>
+                
             </div>
 
         </main>
